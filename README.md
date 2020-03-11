@@ -1,7 +1,6 @@
 # DROWSINESS_DETECTION
 Drowsiness detection in an image using OpenCV, python and dlib. For detecting a blink we will be using EAR(Eye Aspect Ratio).
-
-Real time blink detection in an image using OpenCV, python and dlib. For detecting the blink we will be using EAR(Eye Aspect Ratio).
+If the EAR indicates that the eyes have been closed for sufficiently large amount of time then an alarm will be played.
 
 #BUILT ON:
 
